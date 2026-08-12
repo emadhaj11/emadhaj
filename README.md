@@ -1,21 +1,24 @@
-<h1 align="center">Hi, I'm Octo Cat</h1>
+<h1 align="center">Hi, I'm Emad Haj Yajya</h1>
 
-<p align="center">I build practical products with TypeScript, GitHub automation, and clean UX.</p>
+<p align="center">Bridging hardware design with clean software architecture</p>
 
 <p align="center">
-  <a href="https://github.com/octocat"><img src="https://img.shields.io/badge/GitHub-octocat-181717?style=for-the-badge&logo=github" /></a>
-  <img src="https://img.shields.io/badge/Profile-developer-0969da?style=for-the-badge" />
+  <a href="https://github.com/emadhaj"><img src="https://img.shields.io/badge/GitHub-emadhaj-181717?style=for-the-badge&logo=github" /></a>
+  <img src="https://img.shields.io/badge/Profile-job-0969da?style=for-the-badge" />
 </p>
 
 ## Skills
 
-- TypeScript
-- React
-- Next.js
-- Node.js
-- PostgreSQL
-- Redis
-- GitHub Actions
+- C
+- C++
+- Java
+- Python
+- Verilog
+- Assembly
+- CPU Architecture & Simulators
+- System Toolchains
+- Data Structures
+- Verification.
 
 ## Featured Projects
 
@@ -30,12 +33,12 @@ Ship useful open-source tools, improve developer experience, and publish better 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&hide_border=true" alt="octocat GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emadhaj&show_icons=true&hide_border=true" alt="emadhaj GitHub stats" />
 </p>
 
 ## Contact
 
-- GitHub: https://github.com/octocat
+- GitHub: https://github.com/emadhaj
 - Location: Remote
 
 ---
