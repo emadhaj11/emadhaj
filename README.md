@@ -18,17 +18,20 @@
 - CPU Architecture & Simulators
 - System Toolchains
 - Data Structures
-- Verification.
+- Verification
+- Digital circuits .
 
 ## Featured Projects
 
-- **GitHub Profile Studio** - README, Pages, cards, achievements, OAuth deploy
-- **Automation Worker** - Scheduled GitHub data refresh and growth reports
-- **Card API** - SVG, PNG, and JSON profile cards
+- **CPU Simulator (C++)** — Emulates instruction execution, memory operations, and register banks.**
+- **Two-Pass Assembler (C++)** — Custom assembler supporting label resolution, symbol tables, and binary conversion.**
+- **Pacman Game Engine (Java)** — Classic Arcade implementation built using the Observer Design Pattern.**
+- **RISC CPU Hardware Implementation (Verilog) — Designed and synthesized a RISC microarchitecture with full ALU, register file, and control logic on FPGA.**
 
 ## Current Focus
 
-Ship useful open-source tools, improve developer experience, and publish better technical writing.
+Advanced Digital Systems Verification, FPGA Synthesis, and System-Level C++ Programming.
+ Software & Hardware Engineering Internship opportunities in High-Tech.
 
 ## GitHub Stats
 
