@@ -19,7 +19,7 @@
 - System Toolchains
 - Data Structures
 - Verification
-- Digital circuits .
+- Digital circuits
 
 ## Featured Projects
 
