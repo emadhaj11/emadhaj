@@ -23,21 +23,15 @@
 
 ## Featured Projects
 
-- **CPU Simulator (C++)** — Emulates instruction execution, memory operations, and register banks.**
-- **Two-Pass Assembler (C++)** — Custom assembler supporting label resolution, symbol tables, and binary conversion.**
-- **Pacman Game Engine (Java)** — Classic Arcade implementation built using the Observer Design Pattern.**
+- **CPU Simulator (C++) — Emulates instruction execution, memory operations, and register banks.**
+- **Two-Pass Assembler (C++) — Custom assembler supporting label resolution, symbol tables, and binary conversion.**
+- **Pacman Game Engine (Java) — Classic Arcade implementation built using the Observer Design Pattern.**
 - **RISC CPU Hardware Implementation (Verilog) — Designed and synthesized a RISC microarchitecture with full ALU, register file, and control logic on FPGA.**
 
 ## Current Focus
 
 Advanced Digital Systems Verification, FPGA Synthesis, and System-Level C++ Programming.
  Software & Hardware Engineering Internship opportunities in High-Tech.
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emadhaj11&show_icons=true&hide_border=true" alt="emadhaj11 GitHub stats" />
-</p>
 
 ## Contact
 
