@@ -3,7 +3,7 @@
 <p align="center">Bridging hardware design with clean software architecture</p>
 
 <p align="center">
-  <a href="https://github.com/emadhaj"><img src="https://img.shields.io/badge/GitHub-emadhaj-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/emadhaj11"><img src="https://img.shields.io/badge/GitHub-emadhaj11-181717?style=for-the-badge&logo=github" /></a>
   <img src="https://img.shields.io/badge/Profile-job-0969da?style=for-the-badge" />
 </p>
 
@@ -33,12 +33,12 @@ Ship useful open-source tools, improve developer experience, and publish better 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emadhaj&show_icons=true&hide_border=true" alt="emadhaj GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emadhaj11&show_icons=true&hide_border=true" alt="emadhaj11 GitHub stats" />
 </p>
 
 ## Contact
 
-- GitHub: https://github.com/emadhaj
+- GitHub: https://github.com/emadhaj11
 - Location: Remote
 
 ---
